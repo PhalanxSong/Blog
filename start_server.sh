@@ -1,3 +1,3 @@
-git ck .
+git checkout .
 git pull
 hexo server
