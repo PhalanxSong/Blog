@@ -72,7 +72,27 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+
+#theme: landscape
+theme: modernist
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+rss: /atom.xml
+
+# Content
+archive_date_format: MMM DD
+fancybox: true
+
+# Comment Plugin
+duoshuo_shortname:
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.ico
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
