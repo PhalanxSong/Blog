@@ -1,5 +1,5 @@
 git checkout .
 git pull
-dos2unix start-server.sh
+dos2unix start_server.sh
 docker stop hexo_blog
 docker start hexo_blog
