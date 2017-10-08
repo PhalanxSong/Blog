@@ -216,7 +216,7 @@ Configure your Google Analytics Tracking ID, favicon in the theme's `_config.yml
 
 ``` yaml
 # favicon
-favicon: /favicon.png
+favicon: /favicon.ico
 
 # Google Analytics Tracking ID
 google_analytics:
